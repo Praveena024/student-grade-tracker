@@ -9,7 +9,7 @@
 
 
 
-# Student Grade Calculator
+# Student Grade 
 
 This is a simple Java program that calculates the grade of a student based on their marks in 6 subjects. The program prompts the user to input marks for each subject, computes the average, and assigns a grade based on predefined grading criteria.
 
